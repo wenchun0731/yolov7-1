@@ -1,0 +1,5 @@
+C:\yolov7project\yolov7\mydataset\images\val\00003.jpg
+C:\yolov7project\yolov7\mydataset\images\val\00004.jpg
+C:\yolov7project\yolov7\mydataset\images\val\00006.jpg
+C:\yolov7project\yolov7\mydataset\images\val\00009.jpg
+C:\yolov7project\yolov7\mydataset\images\val\00010.jpg
