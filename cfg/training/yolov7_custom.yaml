@@ -1,5 +1,5 @@
 # parameters
-nc: 1  #只要辨識一個物件
+nc: 2  #只要辨識一個物件
 depth_multiple: 1.0  # model depth multiple
 width_multiple: 1.0  # layer channel multiple
 
