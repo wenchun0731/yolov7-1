@@ -1,5 +1,0 @@
-C:\yolov7project\yolov7\mydataset\images\train\00001.jpg
-C:\yolov7project\yolov7\mydataset\images\train\00002.jpg
-C:\yolov7project\yolov7\mydataset\images\train\00005.jpg
-C:\yolov7project\yolov7\mydataset\images\train\00007.jpg
-C:\yolov7project\yolov7\mydataset\images\train\00008.jpg
